@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlavvaf
 - 👀 I’m interested in Physics 
 - 🌱 I’m currently learning Programming with Python
-- 💞️ I’m looking to collaborate on Applied Science
+- 💞️ I’m looking to collaborate on Applied Science projects
 - 📫 How to reach me mdhlvf@gmail.com
 
 <!---
